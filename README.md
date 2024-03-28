@@ -1,1 +1,1 @@
-Implementarea jocului Sudoku în C# Windows Forms. Se generează un joc de sudoku, iar jucătorul trebuie să-l rezolve. Este implementată rezolvarea jocului prin backtracking și este comparată cu inputul jucătorului, deoarece orice sudoku are o singură soluție.
+Implementation of the Sudoku game in C# Windows Forms. A Sudoku game is generated, and the player has to solve it. The game-solving is implemented through backtracking and is compared with the player's input, as every Sudoku has a single solution.
